@@ -64,6 +64,6 @@ mvn spring-boot:run
 * Unit Testing
 * Docker Support
 
-## Author
-Rui Carlos da Costa Catembue
-## GitHub: https://github.com/RuiCatembue
+## Author: Rui Carlos da Costa Catembue
+## GitHub Profile: https://github.com/RuiCatembue
+## Project Repository: https://github.com/RuiCatembue/Restaurant-Management-System-API
